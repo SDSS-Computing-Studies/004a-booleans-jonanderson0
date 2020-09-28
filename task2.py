@@ -10,3 +10,4 @@
 # - "positive"
 # - "negative"
 # - "zero"
+number= input("Enter a number")
