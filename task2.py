@@ -11,3 +11,10 @@
 # - "negative"
 # - "zero"
 number= input("Enter a number")
+number= int(number)
+if number > +:
+print("The number is positive")
+if number < -:
+print("The number is negative")
+if number == 0:
+print("The number is zero")
