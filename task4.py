@@ -9,3 +9,6 @@
 # Outputs:
 # "the sentence contains password"
 # "the sentence does not contain password"
+
+sentence= input("Enter a sentence")
+if 
