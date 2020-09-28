@@ -14,8 +14,8 @@
 number= input("Enter a number")
 number= int(number)
 if number > 100:     
-print("The number is larger than 100")
+  print("The number is larger than 100")
 if number < 100:
-print("The number is smaller than 100")
+  print("The number is smaller than 100")
 if number == 100:
-print("The number is 100")
+  print("The number is 100")
