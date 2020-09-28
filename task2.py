@@ -12,9 +12,9 @@
 # - "zero"
 number= input("Enter a number")
 number= int(number)
-if number > +:
+if number > 0:
 print("The number is positive")
-if number < -:
+if number < 0:
 print("The number is negative")
 if number == 0:
 print("The number is zero")
