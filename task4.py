@@ -11,4 +11,8 @@
 # "the sentence does not contain password"
 
 sentence= input("Enter a sentence")
-if sentence 
+if sentence == password:
+  print("the sentence contains password")
+else:
+  print("the sentence does not contain password")
+
