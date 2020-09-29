@@ -12,6 +12,7 @@ if "admin" in username:
   print("Enter password")
 else:
   print("invalid user")
+password= input("enter password")
 if "12345password" in password:
   print("Access granted")
 
