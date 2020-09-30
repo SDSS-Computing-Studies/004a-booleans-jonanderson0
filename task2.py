@@ -13,8 +13,8 @@
 number= input("Enter a number")
 number= int(number)
 if number > 0:
-  print("The number is positive")
+  print("positive")
 if number < 0:
-  print("The number is negative")
+  print("negative")
 if number == 0:
-  print("The number is zero")
+  print("zero")
