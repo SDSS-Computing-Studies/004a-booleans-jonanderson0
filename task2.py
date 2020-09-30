@@ -11,7 +11,7 @@
 # - "negative"
 # - "zero"
 number= input("Enter a number")
-number= int("number")
+number= int(number)
 if number > 0:
   print("positive")
 if number < 0:
