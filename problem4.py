@@ -12,3 +12,5 @@
 # - "that is a right triangle"
 # - "that is an acute triangle"
 # - "that is an obtuse triangle"
+x = ("that is a right triangle")
+print(x)
