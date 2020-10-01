@@ -10,11 +10,10 @@
 # - "positive"
 # - "negative"
 # - "zero"
-number= input("Enter a number")
-number= int(number)
-if number > 0:
+num = float(input("Enter a number: "))
+if num > 0:
   print("positive")
-if number < 0:
+if num < 0:
   print("negative")
-if number == 0:
+if num == 0:
   print("zero")
