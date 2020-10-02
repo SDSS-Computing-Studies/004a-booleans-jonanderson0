@@ -12,7 +12,7 @@
 # - "that is a right triangle"
 # - "that is an acute triangle"
 # - "that is an obtuse triangle"
- import math
+import math
   
 a = float(input("enter first side: "))
 b = float(input("enter second side: "))
