@@ -14,9 +14,9 @@
 # - "that is an obtuse triangle"
  import math
   
-a = float(input("enter first side; "))
-b = float(input("enter second side; "))
-c = float(input("enter third side; "))
+a = float(input("enter first side: "))
+b = float(input("enter second side: "))
+c = float(input("enter third side: "))
 
 if a > b and a > c:
   hyp = a
