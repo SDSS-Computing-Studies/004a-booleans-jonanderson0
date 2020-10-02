@@ -17,12 +17,25 @@
 # "2" : The number is 100 or a number up to 1000 
 # "1" : The number is 10 or a number up to 100 
 # "0" : The number is 0 or a number up to 100 
-number = float(input("number"))
-if number > 1000:
+number = input("number: ")
+x= float(number)
+a = 1000
+b = 100
+c = 10
+d = 0
+if x > a:
   print("3")
-if number > 100:
+elif x == a: 
+  print("3")
+elif x > b:
   print("2")
-if number > 10:
+elif x == b: 
+  print("2")
+elif x > c:
   print("1")
-if number > 0:
-  print("0") 
+elif x == c: 
+  print("1")
+elif x > d:
+  print("0")
+elif x == d: 
+  print("0")
