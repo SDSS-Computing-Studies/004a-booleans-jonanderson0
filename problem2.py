@@ -11,9 +11,9 @@
 # "the number is an integer"
 # "the number is not an integer"
 
-number= input("Enter a number")
-number= int(number)
-if number ==int:
-  print("the number is an integer")
-else:
+a = input("Enter a number: ")
+dot = "."
+if dot in a: 
   print("the number is not an integer")
+else:
+  print("the number is an integer")
